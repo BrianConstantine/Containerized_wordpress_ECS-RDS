@@ -41,13 +41,13 @@ This project demonstrates how modern applications can be deployed in a **cloud-n
 
 ## 📸 Architecture Diagram
 
-*(Add your screenshot here once uploaded to the repo)*  
-Example placeholder:  
+<img width="1155" height="486" alt="diagram" src="https://github.com/user-attachments/assets/657e3d6c-b24e-4a09-b23c-d75c9ada5af8" />
+<img width="1155" height="486" alt="diagram" src="https://github.com/user-attachments/assets/242ba6ef-688c-472b-ae88-86ee2c8e6d3b" />
 
-![Architecture Diagram](./diagram.png)
 
 ---
 
 ## 📂 Repository Structure
+
 
 
